@@ -21,11 +21,11 @@ export default About;
 markdown = `
 
 
-Thank you for choosing to use Répéter, a French language learning web app. This Privacy Policy describes how we handle and protect your personal information in connection with Répéter's services.
+Thank you for choosing to use Ripeti, a Italian language learning web app. This Privacy Policy describes how we handle and protect your personal information in connection with Ripeti's services.
 
 **1. Information We Collect**
 
-When you use Répéter, you have the option to send us contact messages. To do so, you are prompted to provide:
+When you use Ripeti, you have the option to send us contact messages. To do so, you are prompted to provide:
 - Your name
 - Your email address
 
@@ -35,7 +35,7 @@ This is the only personal information we collect from you.
 
 We use your name and email address exclusively for:
 - Responding to your queries or messages.
-- Sending any necessary updates or information about Répéter.
+- Sending any necessary updates or information about Ripeti.
 
 We do not use your personal information for marketing purposes, nor do we share, sell, rent, or trade your personal information with any third parties for their promotional purposes.
 
